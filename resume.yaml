@@ -20,7 +20,8 @@ skills:
       skills:
         - Java
         - JavaScript
-        - Ruby
+        - Groovy
+        - Grails
         - 'C#'
         
     - name: 'Platforms'
@@ -43,6 +44,7 @@ skills:
         - Gradle
         - Spring
         - Node.JS Ecosystem
+        - Git
 
     - name: 'Cloud Infrastructure'
       skills:
